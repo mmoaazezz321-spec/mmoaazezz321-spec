@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/shaheen-porsche-animated-hero.gif>
+
 <img src="./assets/hero.png" alt="SHAHEEN — 911 GT3 RS inspired profile" width="100%">
 
 <br><br>
