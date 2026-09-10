@@ -166,7 +166,7 @@ REPEAT
 
 <div align="center">
 
-<a href="https://github.com/mmoazzezz321-spec">
+<a href="https://github.com/mmoaazzezz321-spec">
 <img src="https://img.shields.io/badge/GITHUB-0b0506?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
