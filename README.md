@@ -1,3 +1,4 @@
+<!-- OPTIONAL: drag your intro video here in the GitHub editor and it turns into a playable link -->
 
 <div align="center">
 
@@ -15,12 +16,13 @@
 
 <h2 align="center">Who am I</h2>
 
-Hi, I'm **Shaheen**, a developer from Cairo, Egypt. I like building clean, practical projects that feel finished, not just functional. I'm currently working with C# and object-oriented design, and I keep learning something new with every project.
+Hi, I'm **Shaheen**, an Artificial Intelligence student from Cairo, Egypt. I like building clean, practical projects that feel finished, not just functional. I work with C# and object-oriented design, and I'm learning more about programming and AI with every project.
 
 ---
 
 <h2 align="center">A bit more about me</h2>
 
+- [x] Studying Artificial Intelligence
 - [x] Building projects in C# (OOP, a hotel management system)
 - [x] Learning every day and improving each project
 - [ ] Looking for a bigger project to take on
@@ -29,7 +31,8 @@ Hi, I'm **Shaheen**, a developer from Cairo, Egypt. I like building clean, pract
 <div align="center">
 
 <a href="https://github.com/mmoaazezz321-spec"><img src="https://img.shields.io/badge/GitHub-0b0506?style=for-the-badge&logo=github&logoColor=white"></a>
-<!-- add LinkedIn / email badges here -->
+<a href="https://www.linkedin.com/in/ahmed-mohamed-0951063b8"><img src="https://img.shields.io/badge/LinkedIn-0b0506?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ahmmed.ezz.911@gmail.com"><img src="https://img.shields.io/badge/Email-0b0506?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
@@ -50,9 +53,11 @@ Hi, I'm **Shaheen**, a developer from Cairo, Egypt. I like building clean, pract
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode" alt="stack">
+<img src="https://skillicons.dev/icons?i=cs,py,html,css,js,cpp,git,github,vscode" alt="stack">
 
-<!-- add the rest of your real skills: skillicons.dev/icons?i=py,js,ts,react,node,docker -->
+<br>
+
+`C#` · `Python` · `HTML` · `CSS` · `JavaScript` · `Assembly` · `C++`
 
 </div>
 
