@@ -30,9 +30,11 @@ Hi, I'm **Shaheen**, an Artificial Intelligence student from Cairo, Egypt. I lik
 
 <div align="center">
 
-<a href="https://github.com/mmoaazezz321-spec"><img src="https://img.shields.io/badge/GitHub-0b0506?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-0951063b8"><img src="https://img.shields.io/badge/LinkedIn-0b0506?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ahmmed.ezz.911@gmail.com"><img src="https://img.shields.io/badge/Email-0b0506?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![GitHub](https://img.shields.io/badge/GitHub-8b0e1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmoaazezz321-spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-0951063b8)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmmed.ezz.911@gmail.com)
+
+[GitHub](https://github.com/mmoaazezz321-spec) | [LinkedIn](https://www.linkedin.com/in/ahmed-mohamed-0951063b8) | [ahmmed.ezz.911@gmail.com](mailto:ahmmed.ezz.911@gmail.com)
 
 </div>
 
@@ -53,11 +55,15 @@ Hi, I'm **Shaheen**, an Artificial Intelligence student from Cairo, Egypt. I lik
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,py,html,css,js,cpp,git,github,vscode" alt="stack">
-
-<br>
-
-`C#` · `Python` · `HTML` · `CSS` · `JavaScript` · `Assembly` · `C++`
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
