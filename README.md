@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/shaheen-porsche-animated-hero.gif" alt="Shaheen" width="100%">
+
 
 <br>
 
