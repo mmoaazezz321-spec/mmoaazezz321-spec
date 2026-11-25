@@ -1,13 +1,13 @@
 <!-- OPTIONAL: drag your intro video here in the GitHub editor and it turns into a playable link -->
 
-<div align="center">
 
-<div align="center">
-  <img src="mustang-wallpaper.gif" width="100%" />
-</div>
+<p align="center">
+  <img src="./mustang-wallpaper.gif" width="100%" alt="Mustang Wallpaper">
+</p>
 
 <br>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=mmoaazezz321-spec&label=PROFILE%20VIEWS&color=8b0e1a&style=for-the-badge" alt="Profile views">
 <a href="https://github.com/mmoaazezz321-spec?tab=stars"><img src="https://img.shields.io/github/stars/mmoaazezz321-spec?style=for-the-badge&label=STARS&labelColor=0b0506&color=8b0e1a" alt="Stars"></a>
 <a href="https://github.com/mmoaazezz321-spec?tab=followers"><img src="https://img.shields.io/github/followers/mmoaazezz321-spec?style=for-the-badge&label=FOLLOWERS&labelColor=0b0506&color=8b0e1a" alt="Followers"></a>
