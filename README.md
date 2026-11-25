@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="mustang-wallpaper.gif" width="100%" />
+<div align="center">
+  <img src="mustang-wallpaper.gif" width="100%" />
+</div>
 
 <br>
 
