@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Mustang Wallpaper](mustang-wallpaper.gif)
+<img src="mustang-wallpaper.gif" width="100%" />
 
 <br>
 
