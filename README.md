@@ -1,8 +1,8 @@
 <!-- OPTIONAL: drag your intro video here in the GitHub editor and it turns into a playable link -->
 
-<p align="center">
-  <img src="./assets/mustang-wallpaper.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mmoazzezz321-spec/mmoazzezz321-spec/main/assets/mustang-wallpaper.gif" width="100%" alt="Mustang Animation">
+</div>
 
 <br>
 
